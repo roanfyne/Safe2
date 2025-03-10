@@ -9,7 +9,7 @@ This is a simple proxy viewer that fetches and displays the content of a given U
 
 ## Live Demo
 
-You can access the live demo [here](https://<your-github-username>.github.io/proxy-viewer/).
+You can access the live demo [here](https://roanfyne.github.io/Safe2/).
 
 ## License
 
